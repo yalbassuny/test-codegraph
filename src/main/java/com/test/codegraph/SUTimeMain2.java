@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class SUTimeMain4 {
+public class SUTimeMain2 {
 
     public void check() {
         List<Map<Integer, Integer>> timexes = new ArrayList<>();
