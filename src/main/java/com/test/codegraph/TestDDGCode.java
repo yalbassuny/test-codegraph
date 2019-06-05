@@ -12,4 +12,8 @@ public class TestDDGCode {
         k = l;
         System.out.println(k);
     }
+	
+	public static void main(String[] args) throws Exception {
+        function();
+    }
 }
